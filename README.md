@@ -1,5 +1,5 @@
-## Hi there 👋
 
+Using deep neural nets to solve the mystery of our existence.
 <!--
 **shubhadityaroy/shubhadityaroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
